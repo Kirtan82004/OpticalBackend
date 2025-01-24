@@ -157,12 +157,6 @@ http://localhost:3000
 - Implement payment gateway integration.
 - Introduce analytics for admin dashboard.
 - Add browser push notifications.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## Contributors
